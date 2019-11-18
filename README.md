@@ -192,7 +192,9 @@ gql`
 
 * Moving from REST to GraphQL: [https://medium.com/open-graphql/moving-existing-api-from-rest-to-graphql-205bab22c184](https://medium.com/open-graphql/moving-existing-api-from-rest-to-graphql-205bab22c184)
 
-GraphQL Core Concepts: [https://www.howtographql.com/basics/2-core-concepts/](https://www.howtographql.com/basics/2-core-concepts/)
+GraphQL Core Concepts: [https://www.howtographql.com/basics/2-core-concepts/](https://www.howtographql.com/basics/2-core-concepts/)]
+
+Using the github API: [https://blog.codeship.com/an-introduction-to-graphql-via-the-github-api/](https://blog.codeship.com/an-introduction-to-graphql-via-the-github-api/)
 
 
 ### Videos
